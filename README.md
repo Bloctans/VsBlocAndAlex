@@ -1,5 +1,5 @@
 # VsBlocAndAlex
-An (Abandoned) original Mod made by Bloctans and AlivingBeing/NotChriss
+An (Abandoned) original Mod made by Bloctans and Sammy
 
 
 Highly inspired by VS dave and bambi
